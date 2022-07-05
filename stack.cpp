@@ -64,7 +64,7 @@ gotoxy(50,2);printf(" ");
 
 if(top == maks){
 
-gotoxy(53,2);printf("—-OVERFLOW—-");
+gotoxy(53,2);printf("â€”-OVERFLOWâ€”-");
 
 }
 
@@ -104,7 +104,7 @@ gotoxy(50,2);printf(" ");
 
 if(top == 0){
 
-gotoxy(53,2);printf("—-UNDERFLOW—-");
+gotoxy(53,2);printf("â€”-UNDERFLOWâ€”-");
 
 }
 
